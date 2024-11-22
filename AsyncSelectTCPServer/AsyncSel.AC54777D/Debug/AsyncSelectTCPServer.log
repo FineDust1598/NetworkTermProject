@@ -1,0 +1,12 @@
+﻿  AsyncSelectTCPServer.cpp
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(50,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(55,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(97,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(99,12): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(124,38): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(184,38): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(238,3): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(317,31): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(442,11): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+N:\Github\NetworkTermProject\AsyncSelectTCPServer\AsyncSelectTCPServer.cpp(460,11): warning C4996: 'WSAAsyncSelect': Use WSAEventSelect() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  AsyncSelectTCPServer.vcxproj -> N:\Github\NetworkTermProject\AsyncSelectTCPServer\Debug\AsyncSelectTCPServer.exe
