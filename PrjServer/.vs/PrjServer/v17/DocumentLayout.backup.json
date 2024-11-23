@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\us292\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2024\\2024 2\uD559\uAE30\\\uB124\uD2B8\uC6CC\uD06C\uC18C\uD504\uD2B8\uC6E8\uC5B4\uAC1C\uBC1C\\Source\\Chapter14\\PrjServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BF0624E-624D-4DF9-A118-F6A75D6A6884}|PrjServer.vcxproj|C:\\Users\\us292\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2024\\2024 2\uD559\uAE30\\\uB124\uD2B8\uC6CC\uD06C\uC18C\uD504\uD2B8\uC6E8\uC5B4\uAC1C\uBC1C\\Source\\Chapter14\\PrjServer\\PrjServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BF0624E-624D-4DF9-A118-F6A75D6A6884}|PrjServer.vcxproj|solutionrelative:PrjServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PrjServer.cpp",
+              "DocumentMoniker": "C:\\Users\\us292\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2024\\2024 2\uD559\uAE30\\\uB124\uD2B8\uC6CC\uD06C\uC18C\uD504\uD2B8\uC6E8\uC5B4\uAC1C\uBC1C\\Source\\Chapter14\\PrjServer\\PrjServer.cpp",
+              "RelativeDocumentMoniker": "PrjServer.cpp",
+              "ToolTip": "C:\\Users\\us292\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\2024\\2024 2\uD559\uAE30\\\uB124\uD2B8\uC6CC\uD06C\uC18C\uD504\uD2B8\uC6E8\uC5B4\uAC1C\uBC1C\\Source\\Chapter14\\PrjServer\\PrjServer.cpp",
+              "RelativeToolTip": "PrjServer.cpp",
+              "ViewState": "AgIAALoAAAAAAAAAAAAowMgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-23T13:25:03.348Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

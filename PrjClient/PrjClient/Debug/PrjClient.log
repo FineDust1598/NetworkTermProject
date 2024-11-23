@@ -1,0 +1,7 @@
+﻿  PrjClient.cpp
+C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\PrjClient.cpp(319,22): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\PrjClient.cpp(338,23): warning C4805: '==': 연산에 'BOOL' 형식과 'bool' 형식을 함께 사용하는 것은 안전하지 않습니다.
+C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\PrjClient.cpp(314,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\PrjClient.cpp(329,3): warning C4996: 'WSAStringToAddressA': Use WSAStringToAddressW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\PrjClient.cpp(551,2): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  PrjClient.vcxproj -> C:\Users\us292\OneDrive\바탕 화면\2024\2024 2학기\네트워크소프트웨어개발\Source\Chapter14\PrjClient\Debug\PrjClient.exe
